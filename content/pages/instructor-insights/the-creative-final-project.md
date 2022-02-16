@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 53b64bf6-41e3-a041-a6fe-c0cde9fe1e5e
 title: The Creative Final Project
 uid: 28391e91-8c38-e15f-d63b-e4f59c20469a

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: ae37e3f5-5e19-1886-147f-7dbca7ec27f1
 title: Paper Assignment Guidelines
 uid: f1ef1f92-90f8-78f0-a6fb-0bde2a388582

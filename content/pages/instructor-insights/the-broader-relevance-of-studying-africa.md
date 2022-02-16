@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 53b64bf6-41e3-a041-a6fe-c0cde9fe1e5e
 title: The Broader Relevance of Studying Africa
 uid: 328937bd-fb02-485e-47e2-62e8f00376d9

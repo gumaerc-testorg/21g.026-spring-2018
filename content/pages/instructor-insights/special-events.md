@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 53b64bf6-41e3-a041-a6fe-c0cde9fe1e5e
 title: Special Events
 uid: bf6f6c15-0b56-8678-05d1-3feeaefa9655

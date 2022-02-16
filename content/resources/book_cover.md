@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21g-026-global-africa-creative-cultures-spring-2018/1b4ddb446072b344568d7e9f145b6917_book_cover.jpg
+file: /media/courses/21g-026-global-africa-creative-cultures-spring-2018/1b4ddb446072b344568d7e9f145b6917_book_cover.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: The Creative Final Project
+parent_type: CourseSection
 resourcetype: Image
 title: book_cover.jpg
 uid: 1b4ddb44-6072-b344-568d-7e9f145b6917

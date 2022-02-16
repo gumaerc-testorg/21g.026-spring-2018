@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Readings and Videos
+parent_type: CourseSection
 parent_uid: 137c48d1-3655-3ace-911a-284c234df16d
 title: 'How to Read Closely: Questions to Ask of Texts'
 uid: 778b6d1f-c07e-8d9d-e2a4-03cc725e6096

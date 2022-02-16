@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 53b64bf6-41e3-a041-a6fe-c0cde9fe1e5e
 ---
@@ -38,20 +40,6 @@ There are no prerequisites for this course, but French language concentrators sh
 ### Offered
 
 21G.026 was offered for the first time in Spring 2018.
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A small room with chairs around the edges and a blackboard on one wall.]({{< resource_file b61b7579-59e8-8ade-631c-79013cb052e0 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Seminar
-    
-    This course was taught in a small classroom equipped with tablet chairs, a chalkboard, a whiteboard, and A/V equipment.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

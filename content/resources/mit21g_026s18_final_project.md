@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ae37e3f5-5e19-1886-147f-7dbca7ec27f1
 resourcetype: Document
 title: '21G.026_S18 Final Project Example: Price of Love'
 uid: 60cd02f6-a6f1-7943-1bde-dab4acc442e7

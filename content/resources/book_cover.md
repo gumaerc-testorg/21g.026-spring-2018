@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: The Creative Final Project
 parent_type: CourseSection
+parent_uid: 28391e91-8c38-e15f-d63b-e4f59c20469a
 resourcetype: Image
 title: book_cover.jpg
 uid: 1b4ddb44-6072-b344-568d-7e9f145b6917

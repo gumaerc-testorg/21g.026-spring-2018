@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ae37e3f5-5e19-1886-147f-7dbca7ec27f1
 resourcetype: Document
 title: '21G.026_S18 Assignments: Reflection6'
 uid: 29382c8c-775e-48ce-26c4-5800991b5474

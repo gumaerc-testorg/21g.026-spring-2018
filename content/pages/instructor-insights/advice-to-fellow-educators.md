@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Professor Edoh offers her advice to other educators
+  thinking about teaching a similar topic or using similar methods.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

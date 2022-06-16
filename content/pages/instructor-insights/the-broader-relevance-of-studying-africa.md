@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section, Professor Edoh explains how looking at Africa as a category
+  of thought and looking at creative practices open new pathways for critical thinking
+  that are applicable in many fields.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -10,7 +13,7 @@ title: The Broader Relevance of Studying Africa
 uid: 328937bd-fb02-485e-47e2-62e8f00376d9
 ---
 
-_In this section, Professor Edoh explains how looking at [Africa as a category of thought]({{< baseurl >}}/pages/instructor-insights/africa-as-a-category-of-thought) and looking at creative practices open new pathways for critical thinking that are applicable in many fields._
+_In this section, Professor Edoh explains how looking at {{% resource_link 35f50cac-f5a3-c531-7e36-e27bc4cfaabd "Africa as a category of thought" %}} and looking at creative practices open new pathways for critical thinking that are applicable in many fields._
 
 Our dream as educators is that what we do in the very limited setting of the classroom will be relevant to students’ experiences far beyond the classroom and beyond the specific topic of the course.
 

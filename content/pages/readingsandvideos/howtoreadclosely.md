@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains information on how to read texts closely.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Readings and Videos

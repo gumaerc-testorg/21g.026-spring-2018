@@ -1,12 +1,13 @@
 ---
 content_type: page
+description: This section contains the course topics and their accompanying readings.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Readings and Videos
 uid: 137c48d1-3655-3ace-911a-284c234df16d
 ---
 
-Students will find the resource [How to Read Closely: Questions to Ask of Texts]({{< baseurl >}}/pages/readingsandvideos/howtoreadclosely) useful.
+Students will find the resource {{% resource_link 778b6d1f-c07e-8d9d-e2a4-03cc725e6096 "How to Read Closely: Questions to Ask of Texts" %}} useful.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -98,7 +99,7 @@ Gondola, Ch. Didier. "[Dream and Drama: The Search for Elegance among Congolese 
 
 Sylvanus, Nina. "Fashionability in Colonial and Postcolonial Togo." Chapter 2 in _African Dress: Fashion, Agency, Performance_. Edited by Karen Tranberg Hansen and D. Soyini Madison. Bloomsbury Academic, 2013. ISBN: 9780857853813. \[Preview with [Google Books](https://books.google.com/books?id=sZsdAAAAQBAJ&pg=PA30=onepage#v=onepage&q&f=false)\]
 
-Ogunyankin, Grace Adeniyi. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["'These Girls’ Fashion is Sick!’: _An African City_ and the Geography of Sartorial Worldliness." (PDF)](http://www.agi.ac.za/sites/default/files/image_tool/images/429/feminist_africa_journals/current_issue/fa21_feature_3.pdf) _Feminist Africa_ 21 (2016): 37–51.
+Ogunyankin, Grace Adeniyi. ["'These Girls’ Fashion is Sick!’: _An African City_ and the Geography of Sartorial Worldliness." (PDF)](http://www.agi.ac.za/sites/default/files/image_tool/images/429/feminist_africa_journals/current_issue/fa21_feature_3.pdf) _Feminist Africa_ 21 (2016): 37–51.
 
 
 {{< tdclose >}}

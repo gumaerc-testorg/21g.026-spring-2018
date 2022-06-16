@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21g-026-global-africa-creative-cultures-spring-2018/60cd02f6a6f179431bdedab4acc442e7_MIT21G_026S18_Final_Project.pdf
+file: /courses/21g-026-global-africa-creative-cultures-spring-2018/60cd02f6a6f179431bdedab4acc442e7_MIT21G_026S18_Final_Project.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments

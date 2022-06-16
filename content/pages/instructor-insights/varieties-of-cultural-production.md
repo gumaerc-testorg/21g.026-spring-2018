@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'In this section, Professor Edoh describes the range of cultural activities
+  and productions that the course examined.  '
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

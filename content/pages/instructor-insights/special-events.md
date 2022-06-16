@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Professor Edoh explains how students attended performances
+  out in the world to supplement and enrich their in-class learning.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

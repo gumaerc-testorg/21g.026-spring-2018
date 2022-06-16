@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21g-026-global-africa-creative-cultures-spring-2018/1b4ddb446072b344568d7e9f145b6917_book_cover.jpg
+file: /courses/21g-026-global-africa-creative-cultures-spring-2018/1b4ddb446072b344568d7e9f145b6917_book_cover.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

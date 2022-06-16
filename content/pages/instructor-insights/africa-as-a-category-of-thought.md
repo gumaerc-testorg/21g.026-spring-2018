@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Professor Edoh explains what it means to say that Africa
+  is a category of thought produced through material practices.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

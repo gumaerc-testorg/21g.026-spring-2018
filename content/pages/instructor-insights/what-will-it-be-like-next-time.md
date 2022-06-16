@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'In this section, Professor Edoh ponders what worked best about the course
+  and what she might do differently the next time she teaches 21G.026 Global Africa:
+  Creative Cultures.'
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

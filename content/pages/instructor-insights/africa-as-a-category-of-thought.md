@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: In this section, Professor Edoh explains what it means to say that Africa
+  is a category of thought produced through material practices.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 53b64bf6-41e3-a041-a6fe-c0cde9fe1e5e
 title: Africa as a Category of Thought
 uid: 35f50cac-f5a3-c531-7e36-e27bc4cfaabd

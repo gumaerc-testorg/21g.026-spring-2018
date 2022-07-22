@@ -1,7 +1,13 @@
 ---
 content_type: page
+description: In this section, Professor Edoh explains how the final project assignment
+  was designed to draw on the different creative skills each student brought to the
+  course.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 53b64bf6-41e3-a041-a6fe-c0cde9fe1e5e
 title: The Creative Final Project
 uid: 28391e91-8c38-e15f-d63b-e4f59c20469a
@@ -24,7 +30,7 @@ So first we needed to make a list of the students’ skills. After that, we disc
 How the Projects Turned Out
 ---------------------------
 
-![The words “The Price of Love by Nwamaka Amobi and Gabrielle Ballard” printed in white on a black and white image of flowers on a black background.]({{< resource_file 1b4ddb44-6072-b344-568d-7e9f145b6917 >}})
+{{< resource 1b4ddb44-6072-b344-568d-7e9f145b6917 >}}
 
 "The Price of Love," a photo novel created by students in the course to explore the politics of tradition. (Courtesy of Nwamaka Amobi and Gabrielle S. Ballard. Used with permission.)
 
@@ -32,7 +38,7 @@ One student was interested in plants but wasn’t sure in what direction to take
 
 Other students wanted to talk about how tradition gets articulated. They decided to look at wedding ceremonies in a Nigerian-American context, where people are working across two different cultures, two different cultural realms, and to consider: What do you keep of a tradition? What do you update? What does it mean to treat women a particular way and men a particular way? What should you uphold, and what should you resist, when you're a Nigerian-American and you belong to these two different cultures?
 
-What they did was to put together a [picture book (PDF)]({{< baseurl >}}/resources/mit21g_026s18_final_project), because in class we had talked about these photo novels as a genre of image production and storytelling. They used that format that we had talked about in the class and took the theme they were interested in, the politics of tradition in Igbo weddings, and they wrote a story that featured themselves grappling with these questions. It was quite meta, because they talked about the topic they were interested in, but then they also showed you the questions that it brought up. It wasn't a resolved thing. And the book was meant to be circulated; it was an object that could be used to spur further questions.
+What they did was to put together a {{% resource_link 60cd02f6-a6f1-7943-1bde-dab4acc442e7 "picture book (PDF)" %}}, because in class we had talked about these photo novels as a genre of image production and storytelling. They used that format that we had talked about in the class and took the theme they were interested in, the politics of tradition in Igbo weddings, and they wrote a story that featured themselves grappling with these questions. It was quite meta, because they talked about the topic they were interested in, but then they also showed you the questions that it brought up. It wasn't a resolved thing. And the book was meant to be circulated; it was an object that could be used to spur further questions.
 
 We also had a coffee ceremony in class, an Ethiopian coffee ceremony, and we looked at the sort of questions that raises: What does it take to actually enact what the ceremony is supposed to enact when you take it out of Ethiopia? When you take it into a dorm room, for instance, and you only have certain implements to use, to what extent does it retain its value, its significance?
 

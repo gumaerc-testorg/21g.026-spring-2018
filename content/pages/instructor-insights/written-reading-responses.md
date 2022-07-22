@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: In this section, Professor Edoh describes the rationale behind requiring
+  students to write weekly reading responses.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 53b64bf6-41e3-a041-a6fe-c0cde9fe1e5e
 title: Written Reading Responses
 uid: 2925aec8-83b8-9025-e5a3-63b497f5b29c

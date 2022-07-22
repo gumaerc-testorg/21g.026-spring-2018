@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section contains the requirements for the paper.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: ae37e3f5-5e19-1886-147f-7dbca7ec27f1
 title: Paper Assignment Guidelines
 uid: f1ef1f92-90f8-78f0-a6fb-0bde2a388582
@@ -19,7 +24,7 @@ Evaluation criteria:
 *   Structure (Is the paper organized in an understandable manner? Are citations included? Are they used appropriately? Are page numbers included?)
 *   Writing (Is the paper spell-checked? How is the use of grammar? Is sentence structure varied? Is the writing polished?)
 
-For guidance on how to cite work in your paper, please consult ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Chicago Citation Style: Footnotes and Bibliography. (PDF)](https://politics.ucsc.edu/undergraduate/chicago%20style%20guide.pdf)
+For guidance on how to cite work in your paper, please consult [Chicago Citation Style: Footnotes and Bibliography. (PDF)](https://politics.ucsc.edu/undergraduate/chicago%20style%20guide.pdf)
 
 How to go about writing this paper (in case you’re stuck):
 

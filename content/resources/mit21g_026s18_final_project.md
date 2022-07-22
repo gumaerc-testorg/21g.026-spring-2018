@@ -5,6 +5,7 @@ file: /courses/21g-026-global-africa-creative-cultures-spring-2018/60cd02f6a6f17
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

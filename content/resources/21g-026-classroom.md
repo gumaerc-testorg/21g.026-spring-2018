@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21g-026-global-africa-creative-cultures-spring-2018/b61b757959e88ade631c79013cb052e0_21G-026-classroom.jpg
+file: /ol-ocw-studio-app/courses/21g-026-global-africa-creative-cultures-spring-2018/b61b757959e88ade631c79013cb052e0_21G-026-classroom.jpg
 file_size: 9466
 file_type: image/jpeg
 image_metadata:

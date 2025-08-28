@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21g-026-global-africa-creative-cultures-spring-2018/4d321487b2a96854e4de6d3a39cc312e_MIT21G_026S18_Reflection_9.pdf
+file: /ol-ocw-studio-app/courses/21g-026-global-africa-creative-cultures-spring-2018/4d321487b2a96854e4de6d3a39cc312e_MIT21G_026S18_Reflection_9.pdf
 file_size: 56666
 file_type: application/pdf
 learning_resource_types:

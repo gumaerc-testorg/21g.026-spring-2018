@@ -35,7 +35,7 @@ There are no prerequisites for this course, but French language concentrators sh
 ### Requirements Satisfied
 
 - HASS-H
-- 21G.026 can be applied toward a {{% resource_link "ab8051c1-5327-463d-9661-ce31119edea7" "Bachelor of Science in Global Studies and Languages (French Studies)" %}}.
+- 21G.026 can be applied toward a [Bachelor of Science in Global Studies and Languages (French Studies)](http://catalog.mit.edu/degree-charts/global-studies-languages-course-21g/).
 
 ### Offered
 
